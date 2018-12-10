@@ -1,2 +1,1 @@
-.gitignore
-sdad
+hi every one
