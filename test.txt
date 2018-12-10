@@ -1,1 +1,1 @@
-csdc
+.gitignore
